@@ -12,12 +12,12 @@ var combinedDate = `${yyyy}${mm}${dd}`;
 
 
 // Foursquare API Info
-const clientId = 'R4B1A3D51UOK2KARQVGFS0S2AHAIP4A4P5TV2HII5KYGXMQ4';
-const clientSecret = 'VKV5JVGD35LORXE5DBTVQRXVJVSQ3FK5AQMMX1XY3KXAN3KI';
+const clientId; /*{idGoesHere}*/
+const clientSecret; /*{secretGoesHere}*/
 const url = 'https://api.foursquare.com/v2/venues/explore?near=';
 
 // OpenWeather Info
-const openWeatherKey = '34680113feb818428637b4246ed43639';
+const openWeatherKey; /*{OpenWeather Key}*/
 const weatherUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
 // Page Elements
